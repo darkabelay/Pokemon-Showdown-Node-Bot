@@ -257,11 +257,11 @@ exports.aceptAll = false;
 
 exports.maxBattles = 1;
 
-exports.initBattleMsg = ['gl hf'];
+exports.initBattleMsg = ['Si me ganas es porque eres manka'];
 
-exports.winmsg = ['GG', 'g_g'];
+exports.winmsg = ['GG MANKA', 'GG'];
 
-exports.losemsg = ['gg', 'wp'];
+exports.losemsg = ['Pos eske estaba calentando', 'Me dejé perder'];
 
 exports.battleMessages = {
 	/* Examples of battle messages:
