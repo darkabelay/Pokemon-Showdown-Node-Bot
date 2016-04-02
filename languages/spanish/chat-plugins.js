@@ -8,7 +8,7 @@ exports.translations = {
 			'answers': [
 				'Todo apunta a que sí.',
 				'Sí.',
-				'Hay mucha niebla. Inténtalo de nuevo.',
+				'Pa k kieres saber eso? Jaja salu2.',
 				'Respuesta poco clara, pregunta de nuevo.',
 				'Sin ninguna duda.',
 				'Mis fuentes dicen que no.',
